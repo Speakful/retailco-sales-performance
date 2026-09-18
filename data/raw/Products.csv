@@ -1,0 +1,21 @@
+﻿product_id;name;category;supplier;unit_price;stock_quantity
+P101;Wireless Mouse;Electronics;TechGear;20;500
+P102;Bluetooth Headphones;Electronics;SoundWave;30;300
+P103;USB-C Cable;Accessories;CableMax;15;1000
+P104;Phone Case;Accessories;ProtectPro;10;800
+P105;Smart Watch;Electronics;TechGear;25;200
+P106;Keyboard;Electronics;TechGear;110;1000
+P107;Standing Desk;Accessories;SoundWave;140;1100
+P108;Computer Case;Accessories;ProtectPro;110;500
+P109;Laptop;Electronics;TechGear;20;200
+P110;Briefcase;Accessories;ProtectPro;120;900
+P111;Backpack;Accessories;ProtectPro;30;1300
+P112;Desk Chair;Accessories;TechGear;40;500
+P113;Bluetooth Headphones Charger;Electronics;CableMax;150;300
+P114;Suitcase;Accessories;ProtectPro;120;1100
+P115;Gaming Headset;Electronics;SoundWave;50;200
+P116;Cleanup Kit;Accessories;TechGear;20;1300
+P117;Bluetooth Speaker;Electronics;SoundWave;140;200
+P118;External Microphone;Electronics;TechGear;60;1400
+P119;Adapter;Electronics;CableMax;40;800
+P120;Keyboard Mousepad;Accessories;TechGear;50;400
